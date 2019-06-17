@@ -1,0 +1,15 @@
+pytest-runner
+marshmallow
+pytest
+flask==1.0.2
+nltk==3.4
+numpy==1.15.4
+scipy==1.1.0
+scikit-learn==0.20.1
+pandas==0.23.4
+pyyaml==3.13
+applicationinsights==0.11.7
+flask-marshmallow==0.9.0
+memory_profiler==0.55
+pyaescrypt==0.4.3
+regex==2019.5.25
